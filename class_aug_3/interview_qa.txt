@@ -1,0 +1,10 @@
+3/8/23 Type of Tags
+What is doctype?
+What is the diff b/w paired tag and unpaired tag with examples?
+What is the diff b/w block level element and inline element?
+What are Schematic Tags?
+Diff b/w b tag and strong tag?
+Diff b/w i tag and em tag?
+Diff b/w u tag and ins tag?
+Dif fb/w s tag and del tag strike tag?
+Diff b.w mark tag and span tag?
