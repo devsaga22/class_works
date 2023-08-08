@@ -5,7 +5,7 @@ code makes a mono width text
 Diff b/w small tag and big tag
 Ans:big and small are paired tags that are used to increase or decrease the size of the text upon successive encompassing.
 Element Specific Attributes
-Ans:specific to tha element like tag
+Ans:specific to tha element or tag
 what are attributes present in bdo tag?
 dir
 what are attributes present in abbr tag and acronym tag?
@@ -14,7 +14,8 @@ Attribute: This tag accepts an optional attribute as mentioned above and describ
 title: It is used to specify extra information about the element. When the mouse moves over the element then it shows the information.
 
 Diff b/w absolute path and relative path
-A relative path describes the location of a file relative to the current (working) directory*. An absolute path describes the location from the root directory.
+A relative path describes the location of a file relative to the current (working) directory*. 
+An absolute path describes the location from the root directory.So an absolute path is relative to the root.
 what are attributes present in img tag?
 src,alt,usemap,size,many are there 
 what are attributes  present in  audio tag?
