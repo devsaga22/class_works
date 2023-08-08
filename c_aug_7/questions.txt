@@ -1,0 +1,23 @@
+Diff b/w sup and sub
+Diff b/w pre and code
+Answer:pre bypasses dom to show the text as it is in the source code.
+code makes a mono width text
+Diff b/w small tag and big tag
+Ans:big and small are paired tags that are used to increase or decrease the size of the text upon successive encompassing.
+Element Specific Attributes
+Ans:specific to tha element like tag
+what are attributes present in bdo tag?
+dir
+what are attributes present in abbr tag and acronym tag?
+<abbr title=""> Short form </abbr>
+Attribute: This tag accepts an optional attribute as mentioned above and described below:
+title: It is used to specify extra information about the element. When the mouse moves over the element then it shows the information.
+
+Diff b/w absolute path and relative path
+A relative path describes the location of a file relative to the current (working) directory*. An absolute path describes the location from the root directory.
+what are attributes present in img tag?
+src,alt,usemap,size,many are there 
+what are attributes  present in  audio tag?
+control,src,alt,mute,loop
+what are attributes  present in  video tag?
+control,src,alt,mute,loop,poster
