@@ -1,0 +1,21 @@
+form:
+action, method, autocomplete
+input:
+type, name, id, placeholder
+label:
+for
+Form Attributes:
+type=“text”
+type=“email”
+type=“radio”
+type=“checkbox”
+type = “submit” (value = “Register”)
+type = “reset”
+type = “password”
+-----------
+Dropdown
+select, option and optgroup
+Attributes:
+select - id, name, size, multiple
+option = value, label, disable, selected
+optgroup - label

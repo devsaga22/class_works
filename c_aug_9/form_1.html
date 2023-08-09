@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="" method="post">
+        <!--for and id should be same if u want cursor to move into the box when u click the label.-->
+        <label for="username" >username</label>
+        <input type="text" id="username" minlength="3" maxlength="15" required><br>
+        <label for="password">password</label>
+        <input type="password" id="password"><br>
+        <label for="ph.no">phone number</label>
+        <input type="number" id="ph.no" placeholder="+91-1234567890" value="+91-" pattern="+91-1234567890"><br>
+        <label for="dob">date of birthday</label>
+        <input type="date" id="dob"><br>
+
+        <label for="title">title</label>
+        <fieldset name="title">
+            <lable for="Mr">Mr.</lable>
+            <input type="radio" id="Mr" name="title">
+            <lable for="Ms" >Ms.</lable>
+            <input type="radio" name="title">
+         </fieldset><br>
+        <field>
+            <legend>skills</legend>
+         <label for="skills">python</label>
+         <input type="checkbox" name="python" id="skills"><br>
+        </field> 
+         <label for="payment">payment options</label>
+         <select name="" id=""  multiple><!--size="3"-->
+            <optgroup label="upi" id="upi" >
+                <option value="upi" selected>paytm</option>
+                <option value="upi">gpay</option>
+                <option value="upi">phonepay</option>
+            </optgroup>
+            <optgroup label="card" id="card" >
+                <option value="ccard">mastercard</option>
+                <option value="dcard" disabled>visa</option>
+                <option value="upi">phonepay</option>
+            </optgroup>
+            
+         </select>
+        
+        
+
+
+        <input type="submit">
+        <input type="reset">
+    </form>
+    
+</body>
+</html>
